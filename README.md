@@ -59,11 +59,11 @@ Feel free to explore my GitHub profile for more projects and contributions: [<im
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Uday1004&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Uday's GitHub Stats" />
 </a>
 
-<a href="https://github.com/Uday1004/python-project-blueprint">
+<a href="https://github.com/Uday1004/Ecommerce-Fullstack-MERN-">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Uday1004&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-<a href="https://github.com/Uday1004/go-project-blueprint">
+<a href= "https://github.com/Uday1004/DockerApp-text-utils-">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Uday1004&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
