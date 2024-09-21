@@ -44,11 +44,7 @@ I am passionate about building projects leveraging my React, MERN stack, and Dev
 - [Project Title 2](#) - A brief description of the features and your role in the project.
 - [Project Title 3](#) - An overview of the project and its impact.
 
-Feel free to explore my GitHub profile for more projects and contributions:
-
-<div style="margin-top: 10px;"></div>
-
-[<img width="27" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/>](https://github.com/yourusername)
+Feel free to explore my GitHub profile for more projects and contributions: [<img width="27" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/>](https://github.com/yourusername)
 
 
 <!-- BLOG-POST-LIST:END -->
