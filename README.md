@@ -9,10 +9,10 @@ Hello, I’m Uday!
 
 I’m a passionate React & DevOps developer with experience of 2 years. My expertise spans across the MERN stack, AWS DevOps, and I’m currently diving into the exciting world of Web3.
 
-Feel free to connect with me on:
+Feel free to connect with me on [<img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" width="25" height="25" />](https://linkedin.com/in/yourprofile) LinkedIn & [<img src="https://upload.wikimedia.org/wikipedia/commons/0/09/X_logo_2023.svg" alt="X" width="30" height="30" style="vertical-align:middle;margin-right:5px;" />](https://x.com/yourprofile) Twitter-X:
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/0/09/X_logo_2023.svg" alt="X" width="25" height="25" />](https://x.com/yourprofile) X  
-[<img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" width="25" height="25" />](https://linkedin.com/in/yourprofile) LinkedIn
+ 
+ 
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
