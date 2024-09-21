@@ -3,10 +3,13 @@
 [![Header](./Black%20Technology%20LinkedIn%20Banner.png "Header")](https://udaysolanki.netlify.app)
 
 # Greetings, all!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> 
-# I am Uday Solanki
+ 
 
-My name is Martin Heinz and I'm a software developer/DevOps engineer. I'm from Slovakia, living in Bratislava. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+Hello, I’m Uday!
 
+I’m a passionate software developer and DevOps engineer based in Bratislava, Slovakia. My expertise spans across the MERN stack, AWS DevOps, and I’m currently diving into the exciting world of Web3.
+
+Feel free to connect with me on [Twitter][1] or [LinkedIn][3]!
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
