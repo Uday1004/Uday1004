@@ -7,7 +7,7 @@
 
 Hello, I’m Uday!
 
-I’m a passionate software developer and DevOps engineer based in Bratislava, Slovakia. My expertise spans across the MERN stack, AWS DevOps, and I’m currently diving into the exciting world of Web3.
+I’m a passionate React & DevOps developer with experience of 2 years. My expertise spans across the MERN stack, AWS DevOps, and I’m currently diving into the exciting world of Web3.
 
 Feel free to connect with me on [Twitter][1] or [LinkedIn][3]!
 ## 🔧 Technologies & Tools
