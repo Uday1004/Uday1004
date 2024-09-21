@@ -46,7 +46,7 @@ I am passionate about building projects leveraging my React, MERN stack, and Dev
 - [Project Title 3](#) - An overview of the project and its impact.
 
 Feel free to explore my GitHub profile for more projects and contributions: 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+(https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
 
 <!-- BLOG-POST-LIST:END -->
 
