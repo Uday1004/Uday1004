@@ -2,7 +2,7 @@
 
 [![Header](./Black%20Technology%20LinkedIn%20Banner.png "Header")](https://udaysolanki.netlify.app)
 
-# Greetings, all!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> 
+# Greetings, all! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> 
  
 
 Hello, I’m Uday!
