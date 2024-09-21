@@ -1,6 +1,6 @@
 <!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
-[![Header](./Black%20Technology%20LinkedIn%20Banner.png "Header")](https://martinheinz.dev/)
+[![Header](./Black%20Technology%20LinkedIn%20Banner.png "Header")](https://udaysolanki.netlify.app)
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
