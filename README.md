@@ -9,7 +9,8 @@ Hello, I’m Uday!
 
 I’m a passionate React & DevOps developer with experience of 2 years. My expertise spans across the MERN stack, AWS DevOps, and I’m currently diving into the exciting world of Web3.
 
-Feel free to connect with me on: <img width="20" height="20" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/>(https://github.com/yourusername)
+Feel free to connect with me on: [<img src="https://cdn.jsdelivr.net/npm/bootstrap-icons/icons/twitter.svg" alt="Twitter" width="16" height="16" />](https://x.com/yourprofile) X  
+[<img src="https://cdn.jsdelivr.net/npm/bootstrap-icons/icons/linkedin.svg" alt="LinkedIn" width="16" height="16" />](https://linkedin.com/in/yourprofile) LinkedIn
  
  
 
