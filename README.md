@@ -37,17 +37,16 @@ Feel free to connect with me on  [<img src="https://upload.wikimedia.org/wikiped
 
  
 
-## &#x270d; Blog & Writing
+## &#x1f4c8; Projects & Contributions
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [martinheinz.dev](https://martinheinz.dev/) as well as on [Medium](https://medium.com/@martin.heinz) and [DEV.to](https://dev.to/martinheinz).
+I am passionate about building projects leveraging my React, MERN stack, and DevOps skills. Here are a few highlights:
 
-A sample of my recent articles:
+- [Project Title 1](#) - A brief description of what the project does and the technologies used.
+- [Project Title 2](#) - A brief description of the features and your role in the project.
+- [Project Title 3](#) - An overview of the project and its impact.
 
-<!-- BLOG-POST-LIST:START -->
-- [10 Examples Why cURL is an Awesome CLI Tool](https://martinheinz.dev/blog/113)
-- [A Guide to Python&#39;s Weak References Using weakref Module](https://martinheinz.dev/blog/112)
-- [Recent Docker BuildKit Features You&#39;re Missing Out On](https://martinheinz.dev/blog/111)
-- [Shell History Is Your Best Productivity Tool](https://martinheinz.dev/blog/110)
+Feel free to explore my GitHub profile for more projects and contributions: [GitHub Profile](https://github.com/yourusername).
+
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
