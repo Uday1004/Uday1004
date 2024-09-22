@@ -40,9 +40,9 @@ Feel free to connect with me on [<img src="https://upload.wikimedia.org/wikipedi
 
 I am passionate about building projects leveraging my React, MERN stack, and DevOps skills. Here are a few highlights:
 
-- [Project Title 1](#) - A brief description of what the project does and the technologies used.
-- [Project Title 2](#) - A brief description of the features and your role in the project.
-- [Project Title 3](#) - An overview of the project and its impact.
+- [E-Rental-Bike-App](#) - A streamlined, React-based platform designed to make renting e-bikes quick and effortless.
+- [Weather-App](#) - A responsive React-powered weather app delivering real-time forecasts, current conditions, and weather alerts.
+- [Simple-Docker](#) - A simplified web-based tool designed for managing Docker containers with ease. Built on React, this app allows users to create, run, and monitor Docker containers through a clean and intuitive interface
 
 Feel free to explore my GitHub profile for more projects and contributions: [<img width="27" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/>](https://github.com/yourusername)
 
@@ -70,31 +70,4 @@ Feel free to explore my GitHub profile for more projects and contributions: [<im
 
 
 
-<!-- links to social media icons -->
-
-<!-- icons with padding -->
-
-[1.1]: http://i.imgur.com/tXSoThF.png (Twitter icon with padding)
-[2.1]: http://i.imgur.com/0o48UoR.png (GitHub icon with padding)
-
-<!-- icons without padding -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-
-<!-- links to your social media accounts -->
-
-[1]: https://twitter.com/Martin_Heinz_
-[2]: https://github.com/MartinHeinz
-[3]: https://www.linkedin.com/in/heinz-martin/
-
-
-<!-- Resources -->
-<!-- Icons: https://simpleicons.org/ -->
-<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
-<!-- Emojis: https://emojipedia.org/emoji/ -->
-<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
-<!-- Shields: https://shields.io/ -->
-<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
+ 
