@@ -9,7 +9,7 @@ Hello, I’m Uday!
 
 I’m a passionate React & DevOps developer with experience of 2 years. My expertise spans across the MERN stack, AWS DevOps, and I’m currently diving into the exciting world of Web3.
 
-Feel free to connect with me on [<img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" width="25" height="25" />](https://linkedin.com/in/yourprofile) & [<img src="https://banner2.cleanpng.com/20240119/bkq/transparent-x-icon-black-and-white-x-in-the-1710889063979.webp" alt="Twitter" width="25" height="25" />](https://x.com/yourprofile)
+Feel free to connect with me on [<img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" width="25" height="25" />](https://www.linkedin.com/in/uday-solanki-a62967277/) & [<img src="https://banner2.cleanpng.com/20240119/bkq/transparent-x-icon-black-and-white-x-in-the-1710889063979.webp" alt="Twitter" width="25" height="25" />]([https://x.com/yourprofile](https://x.com/UdaySolanki0312))
  
  
 
@@ -40,8 +40,8 @@ Feel free to connect with me on [<img src="https://upload.wikimedia.org/wikipedi
 
 I am passionate about building projects leveraging my React, MERN stack, and DevOps skills. Here are a few highlights:
 
-- [E-Rental-Bike-App](#) - A streamlined, React-based platform designed to make renting e-bikes quick and effortless.
-- [Weather-App](#) - A responsive React-powered weather app delivering real-time forecasts, current conditions, and weather alerts.
+- [E-Rental-Bike-App](https://github.com/Uday1004/Ecommerce-Fullstack-MERN-) - A streamlined, React-based platform designed to make renting e-bikes quick and effortless.
+- [Weather-App](https://github.com/Uday1004/weather_App) - A responsive React-powered weather app delivering real-time forecasts, current conditions, and weather alerts.
 - [Simple-Docker](#) - A simplified web-based tool designed for managing Docker containers with ease. Built on React, this app allows users to create, run, and monitor Docker containers through a clean and intuitive interface
 
 Feel free to explore my GitHub profile for more projects and contributions: [<img width="27" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/>](https://github.com/yourusername)
