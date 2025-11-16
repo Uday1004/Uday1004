@@ -7,9 +7,9 @@
 
 Hello, I’m Uday!
 
-I’m a passionate React & DevOps developer with experience of 2 years. My expertise spans across the MERN stack, AWS DevOps, and I’m currently diving into the exciting world of Web3.
+I’m a passionate React & DevOps developer with 1.5+ years of experience. My expertise spans across the MERN stack, MicroFrontend Development, and I’m currently diving into the exciting world of Android application.
 
-Feel free to connect with me on [<img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" width="25" height="25" />](https://www.linkedin.com/in/uday-solanki-a62967277/) & [<img src="https://banner2.cleanpng.com/20240119/bkq/transparent-x-icon-black-and-white-x-in-the-1710889063979.webp" alt="Twitter" width="25" height="25" />]([https://x.com/yourprofile](https://x.com/UdaySolanki0312))
+Feel free to connect with me on Linkedin(https://www.linkedin.com/in/uday-solanki-a62967277/) & Twitter([https://x.com/yourprofile](https://x.com/UdaySolanki0312))
  
  
 
