@@ -38,9 +38,9 @@ Feel free to connect with me on [Linkedin](https://www.linkedin.com/in/uday-sola
 
 I am passionate about building projects leveraging my React, MERN stack, and DevOps skills. Here are a few highlights:
 
-- [E-Rental-Bike-App](https://github.com/Uday1004/Ecommerce-Fullstack-MERN-) - A streamlined, React-based platform designed to make renting e-bikes quick and effortless.
-- [Weather-App](https://github.com/Uday1004/weather_App) - A responsive React-powered weather app delivering real-time forecasts, current conditions, and weather alerts.
-- [Simple-Docker](#) - A simplified web-based tool designed for managing Docker containers with ease. Built on React, this app allows users to create, run, and monitor Docker containers through a clean and intuitive interface
+- [Embedded AI Chatbot Widget](https://github.com/Uday1004/Embedded-AI-Chatbot-Widget) - A React-based embeddable chatbot widget powered by Ollama (LLaMA). It can be integrated into any website to answer user queries about business details, services, tech stack, and general website information.
+- [FinanceTracker](https://github.com/Uday1004/FinanceTracker) - A simple financial management app to record, edit, and manage daily expenses and income. Includes monthly summaries, reset options, and easy tracking of personal money flow.
+- [Activity Audit by Github Actions](https://github.com/Uday1004/Activity-Audit-by-Github-Actions) - A dashboard that audits GitHub Action events and logs for repositories. It helps track build history, triggered workflows, status changes, and action-level insights for better automation monitoring.
 
 Feel free to explore my GitHub profile for more projects and contributions: [<img width="27" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/>](https://github.com/yourusername)
 
